@@ -1,0 +1,15 @@
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\bin\Debug\net7.0\ManageProgramFlow.exe
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\bin\Debug\net7.0\ManageProgramFlow.deps.json
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\bin\Debug\net7.0\ManageProgramFlow.runtimeconfig.json
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\bin\Debug\net7.0\ManageProgramFlow.dll
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\bin\Debug\net7.0\ManageProgramFlow.pdb
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ManageProgramFlow.csproj.AssemblyReference.cache
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ManageProgramFlow.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ManageProgramFlow.AssemblyInfoInputs.cache
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ManageProgramFlow.AssemblyInfo.cs
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ManageProgramFlow.csproj.CoreCompileInputs.cache
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ManageProgramFlow.dll
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\refint\ManageProgramFlow.dll
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ManageProgramFlow.pdb
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ManageProgramFlow.genruntimeconfig.cache
+c:\Users\areth\estudos\programming-with-csharp\ManageProgramFlow\obj\Debug\net7.0\ref\ManageProgramFlow.dll
