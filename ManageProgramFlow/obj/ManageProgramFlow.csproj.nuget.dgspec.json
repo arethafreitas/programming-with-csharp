@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\ManageProgramFlow.csproj": {}
+    "C:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\ManageProgramFlow.csproj": {}
   },
   "projects": {
-    "c:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\ManageProgramFlow.csproj": {
+    "C:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\ManageProgramFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\ManageProgramFlow.csproj",
+        "projectUniqueName": "C:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\ManageProgramFlow.csproj",
         "projectName": "ManageProgramFlow",
-        "projectPath": "c:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\ManageProgramFlow.csproj",
+        "projectPath": "C:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\ManageProgramFlow.csproj",
         "packagesPath": "C:\\Users\\areth\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\obj\\",
+        "outputPath": "C:\\Users\\areth\\estudos\\programming-with-csharp\\ManageProgramFlow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\areth\\AppData\\Roaming\\NuGet\\NuGet.Config",
